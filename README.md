@@ -4,11 +4,11 @@
 
 ### Hi there 👋
 
-...
+I am a student currrently pursuing a Master's degree in Computer Science at City, University of London.
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠 Languages and Tools
 
 #
 
