@@ -36,7 +36,7 @@ deeply passionate for software engineering, games, data science and cyber securi
 
 #
 
-### 🗂 Notable Projects
+### 🗃 Notable Projects
 
 - HeroVersus (2023)
 - FortniteWinTracker2 (2023)
@@ -55,6 +55,10 @@ Non-GitHub Projects:
 ...
 
 #
+
+<details>
+    <summary><h3>👨‍💻 Mateusz's Coding Journey</h3></summary>
+    ...
 
 <!--
 **mateuszs6/mateuszs6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
