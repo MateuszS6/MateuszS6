@@ -4,7 +4,9 @@
 
 ### Hi there 👋
 
-I am a student currrently pursuing a Master's degree in Computer Science at City, University of London.
+I am a student currrently pursuing a Master's degree in Computer Science at City, University of London. Driven by the 
+desire to gain new experiences, contribute to innovative projects, and make a meaningful impact, all while remaining 
+deeply passionate for software engineering, games, data science and cyber security.
 
 ---
 
@@ -13,6 +15,16 @@ I am a student currrently pursuing a Master's degree in Computer Science at City
 #
 
 ### 🗂 Notable Projects
+
+- HeroVersus (2023)
+- FortniteWinTracker2 (2023)
+- NaughtsAndCrosses (2023)
+- RecipeDatabaseSimulation (2023)
+- DiceRoller (2023/24)
+
+Other Projects:
+- Story of the Shadow Cat (2018)
+- The Traveller's Mission (2021/22)
 
 #
 
