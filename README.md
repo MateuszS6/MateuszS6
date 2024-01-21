@@ -12,6 +12,10 @@ I am a student currrently pursuing a Master's degree in Computer Science at City
 
 #
 
+### 🗂 Notable Projects
+
+#
+
 ### 📈 Stats
 
 #
