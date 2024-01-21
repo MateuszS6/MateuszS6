@@ -45,7 +45,7 @@ deeply passionate for software engineering, games, data science and cyber securi
 - DiceRoller (2023/24)
 
 Non-GitHub Projects:
-- [Story of the Shadow Cat][flowlab] (2018)
+- [The Shadow Cat][flowlab] (2018)
 - [The Traveller's Mission][replit] (2021/22)
 
 #
