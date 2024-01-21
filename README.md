@@ -1,4 +1,20 @@
+# 🚀 Mateusz Stepien
+
+**`Computer Scientist, Digital Craftsman`**
+
 ### Hi there 👋
+
+...
+
+---
+
+### 🧰 Languages and Tools
+
+#
+
+### 📈 Stats
+
+#
 
 <!--
 **mateuszs6/mateuszs6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
