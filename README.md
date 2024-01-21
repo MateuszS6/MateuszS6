@@ -16,15 +16,15 @@ deeply passionate for software engineering, games, data science and cyber securi
 
 ### 🗂 Notable Projects
 
-- HeroVersus (2023)
-- FortniteWinTracker2 (2023)
-- NaughtsAndCrosses (2023)
-- RecipeDatabaseSimulation (2023)
-- DiceRoller (2023/24)
+  - HeroVersus (2023)
+  - FortniteWinTracker2 (2023)
+  - NaughtsAndCrosses (2023)
+  - RecipeDatabaseSimulation (2023)
+  - DiceRoller (2023/24)
 
-Other Projects:
-- Story of the Shadow Cat (2018)
-- The Traveller's Mission (2021/22)
+  Other Projects:
+  - Story of the Shadow Cat (2018)
+  - The Traveller's Mission (2021/22)
 
 #
 
