@@ -55,7 +55,7 @@ Non-GitHub Projects:
 
 ### 📈 Stats
 
-...
+![stats](https://github-readme-stats.vercel.app/api?username=mateuszs6&show_icons=true&theme=gruvbox)
 
 #
 
