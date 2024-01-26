@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am a student currrently pursuing a Master's degree in Computer Science at City, University of London. Driven by the 
+I'm a student currrently pursuing a Master's in Computer Science at City, University of London. I'm driven by the 
 desire to gain new experiences, contribute to innovative projects, and make a meaningful impact, all while remaining 
 deeply passionate for software engineering, games, data science and cyber security.
 
