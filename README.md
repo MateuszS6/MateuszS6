@@ -8,6 +8,8 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 desire to gain new experiences, contribute to innovative projects, and make a meaningful impact, all while remaining 
 deeply passionate for software engineering, games, data science and cyber security.
 
+<!-- DO THIS -->
+
 <!--
 <p align="left">
     <a href="https://github.com/ForrestKnight?tab=followers">
@@ -57,9 +59,13 @@ Non-GitHub Projects:
 
 ### 📈 Stats
 
+<!-- CHANGE THIS -->
+
 ![stats][mystats]
 
 #
+
+<!-- COMPLETE/CHANGE THIS -->
 
 <details>
     <summary><h3>👨‍💻 Mateusz's Coding Journey</h3></summary>
