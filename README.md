@@ -41,11 +41,12 @@ deeply passionate for software engineering, games, data science and cyber securi
 
 ### 🗃 Notable Projects
 
+- 🦸‍♀️ Marvel Database (2022-2023)
 - ⚔ Hero Versus (2023)
 - 🏅 Fortnite Win Tracker2 (2023)
 - ⭕ Naughts And Crosses (2023)
 - 📜 Recipe Database Simulation (2023)
-- 🎲 Dice Roller (2023/24)
+- 🎲 Dice Roller (2023-2024)
 
 Non-GitHub Projects:
 - 🐱‍👤 [The Shadow Cat][flowlab] (2018)
