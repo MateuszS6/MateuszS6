@@ -19,7 +19,7 @@ deeply passionate for software engineering, games, data science and cyber securi
 
 ---
 
-### 🛠 Languages and Tools
+### 🧰 Languages and Tools
 
 <!-- COPY+PASTE: [align="left" alt="NAME" width="40px" style="padding-right:10px;" ] -->
 
@@ -39,24 +39,25 @@ deeply passionate for software engineering, games, data science and cyber securi
 
 #
 
-### 🗃 Notable Projects
+### 🗃️ Notable Projects
 
-- 🦸‍♀️ Marvel Database (2022-2023)
-- ⚔ Hero Versus (2023)
-- 🏅 Fortnite Win Tracker2 (2023)
+Check out my [repos][myrepos]!
+- 🦸 Marvel Database (2022-2023)
+- ⚔️ Hero Versus (2023)
+- 🥇 Fortnite Win Tracker2 (2023)
 - ⭕ Naughts And Crosses (2023)
 - 📜 Recipe Database Simulation (2023)
 - 🎲 Dice Roller (2023-2024)
 
 Non-GitHub Projects:
-- 🐱‍👤 [The Shadow Cat][flowlab] (2018)
+- 🐈 [The Shadow Cat][flowlab] (2018)
 - 🏃‍♂️ [The Traveller's Mission][replit] (2021/22)
 
 #
 
 ### 📈 Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=mateuszs6&show_icons=true&theme=gruvbox)
+![stats][mystats]
 
 #
 
@@ -81,3 +82,5 @@ Here are some ideas to get you started:
 
 [flowlab]: https://flowlab.io/games/play/937230
 [replit]: https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py
+[mystats]: https://github-readme-stats.vercel.app/api?username=mateuszs6&show_icons=true&theme=gruvbox
+[myrepos]: https://github.com/mateuszs6?tab=repositories
