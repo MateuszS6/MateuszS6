@@ -10,11 +10,13 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 
 <p align="left">
     <a href="https://github.com/MateuszS6?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MateuszS?color=7c007c&labelColor=640464&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <img alt="follow" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/Follow-640464?style=for-the-badge&logoColor=white&logo=person-add"/></a>
+    <a href="https://www.linkedin.com/in/mateusz-stepien-ms6">
+        <img alt="connect" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Connect-1155ba?style=for-the-badge&logoColor=white&logo=person-add"/></a>
+    <a href="https://g.dev/mateusz-stepien">
+        <img alt="google" title="Visit my Google Dev profile" src="https://custom-icon-badges.demolab.com/badge/Google%20Dev-55960c?style=for-the-badge&logoColor=white&logo=code"/></a>
     <a href="https://github.com/mateuszs6?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MateuszS6?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    <a href="https://github.com/ForrestKnight?tab=followers">
-        <img alt="linkedin followers" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-yellow?style=for-the-badge&logoColor=white&logo=star"/></a>
 </p>
 
 ---
@@ -59,7 +61,7 @@ Non-GitHub Projects:
 
 <!-- CHANGE THIS -->
 
-![stats](https://github-readme-stats.vercel.app/api?username=mateuszs6&show_icons=true&theme=gruvbox)
+![stats](https://github-readme-stats.vercel.app/api?username=mateuszs6&show_icons=true&theme=prussian)
 
 #
 
