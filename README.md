@@ -6,16 +6,16 @@
 
 I'm a student currrently pursuing a Master's in Computer Science at City, University of London. I'm driven by the desire to gain new experiences, contribute to innovative projects, and make a meaningful impact, all while remaining deeply passionate for software engineering, games, data science and cyber security. All coding projects are developed from the ground up, from planning and designing all the way to solving real problems with code.
 
-<!-- DO THIS -->
+<!-- Social badges -->
 
-<!--
 <p align="left">
-    <a href="https://github.com/ForrestKnight?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/MateuszS6?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MateuszS?color=7c007c&labelColor=640464&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/mateuszs6?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MateuszS6?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a href="https://github.com/ForrestKnight?tab=followers">
+        <img alt="linkedin followers" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
--->
 
 ---
 
@@ -41,7 +41,7 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 
 ### 🗃️ Notable Projects
 
-Check out my [repos][myrepos]!
+Check out my [repos](https://github.com/mateuszs6?tab=repositories)!
 - 🦸 Marvel Database (2022-2023)
 - ⚔️ Hero Versus (2023)
 - 🥇 Fortnite Win Tracker2 (2023)
@@ -50,8 +50,8 @@ Check out my [repos][myrepos]!
 - 🎲 Dice Roller (2023-2024)
 
 Non-GitHub Projects:
-- 🐈 [The Shadow Cat][flowlab] (2018)
-- 🏃‍♂️ [The Traveller's Mission][replit] (2021/22)
+- 🐈 [The Shadow Cat](https://flowlab.io/games/play/937230) (2018)
+- 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) (2021/22)
 
 #
 
@@ -59,7 +59,7 @@ Non-GitHub Projects:
 
 <!-- CHANGE THIS -->
 
-![stats][mystats]
+![stats](https://github-readme-stats.vercel.app/api?username=mateuszs6&show_icons=true&theme=gruvbox)
 
 #
 
@@ -70,7 +70,7 @@ Non-GitHub Projects:
     ...
 
 <!--
-**mateuszs6/mateuszs6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MateuszS6/MateuszS6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -83,8 +83,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[flowlab]: https://flowlab.io/games/play/937230
-[replit]: https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py
-[mystats]: https://github-readme-stats.vercel.app/api?username=mateuszs6&show_icons=true&theme=gruvbox
-[myrepos]: https://github.com/mateuszs6?tab=repositories
