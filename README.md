@@ -21,6 +21,8 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
         <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-yellow?style=for-the-badge&logoColor=white&logo=star"/></a>
 </p>
 
+#
+
 ### 🧰 Languages and Tools
 
 <!-- COPY+PASTE: [align="left" alt="NAME" width="40px" style="padding-right:10px;" ] -->
