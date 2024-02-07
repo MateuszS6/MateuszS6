@@ -61,7 +61,9 @@ Non-GitHub Projects:
 
 ### 📈 Statistics
 
-![stats](https://github-readme-stats.vercel.app/api?username=mateuszs6&show_icons=true&theme=prussian)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=MateuszS6&show_icons=true&theme=prussian) -->
+[![stats](https://github-readme-stats.vercel.app/api?username=MateuszS6)](https://github.com/anuraghazra/github-readme-stats)  
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszS6&langs_count=3&hide=c)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
