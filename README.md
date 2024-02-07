@@ -8,6 +8,8 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 
 <!-- Social badges -->
 
+<!-- FORMAT: [https://custom-icon-badges.demolab.com/badge/[TEXT]-[COLOUR]?style=for-the-badge&logoColor=[BG_COLOUR]&logo=[LOGO_NAME]] -->
+
 <p align="left">
     <a href="https://github.com/MateuszS6?tab=followers">
         <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/Follow-640464?style=for-the-badge&logoColor=white&logo=person-add"/></a>
@@ -18,8 +20,6 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
     <a href="https://github.com/mateuszs6?tab=repositories&sort=stargazers">
         <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-yellow?style=for-the-badge&logoColor=white&logo=star"/></a>
 </p>
-
----
 
 ### 🧰 Languages and Tools
 
@@ -57,9 +57,7 @@ Non-GitHub Projects:
 
 #
 
-### 📈 Stats
-
-<!-- CHANGE THIS -->
+### 📈 Statistics
 
 ![stats](https://github-readme-stats.vercel.app/api?username=mateuszs6&show_icons=true&theme=prussian)
 
@@ -72,6 +70,7 @@ Non-GitHub Projects:
     ...
 
 <!--
+
 **MateuszS6/MateuszS6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
