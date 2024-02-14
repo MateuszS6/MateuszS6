@@ -12,7 +12,7 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 
 <p align="left">
     <a href="https://github.com/MateuszS6?tab=followers">
-        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/follow-640464?style=for-the-badge&logoColor=white&logo=person"/></a>
+        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/follow-640464?style=for-the-badge&logoColor=white&logo=people"/></a>
     <a href="https://www.linkedin.com/in/mateusz-stepien-ms6">
         <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/connect-1155ba?style=for-the-badge&logoColor=white&logo=person-add"/></a>
     <a href="https://g.dev/mateusz-stepien">
@@ -20,7 +20,7 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
     <a href="https://www.cloudskillsboost.google/public_profiles/097ea9ea-9a0a-4a62-a530-bb0156aefb42">
         <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/cloud%20skills-red?style=for-the-badge&logoColor=white&logo=cloud"/></a>
     <a href="https://github.com/mateuszs6?tab=repositories&sort=stargazers">
-        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/stars-orange?style=for-the-badge&logoColor=white&logo=star"/></a>
+        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/stars-gold?style=for-the-badge&logoColor=black&logo=star"/></a>
 </p>
 
 #
