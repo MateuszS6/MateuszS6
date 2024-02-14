@@ -1,6 +1,6 @@
 # 🚀 Mateusz Stepien
 
-**`Computer Scientist, Digital Craftsman`**
+**`Digital Craftsman` `Computer Scientist Student`**
 
 ### Hi there 👋
 
@@ -12,11 +12,13 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 
 <p align="left">
     <a href="https://github.com/MateuszS6?tab=followers">
-        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/Follow-640464?style=for-the-badge&logoColor=white&logo=person-add"/></a>
+        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/Follow-640464?style=for-the-badge&logoColor=white&logo=person"/></a>
     <a href="https://www.linkedin.com/in/mateusz-stepien-ms6">
         <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/Connect-1155ba?style=for-the-badge&logoColor=white&logo=person-add"/></a>
     <a href="https://g.dev/mateusz-stepien">
-        <img alt="google" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/Google%20Dev-55960c?style=for-the-badge&logoColor=white&logo=code"/></a>
+        <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/Google%20Dev-55960c?style=for-the-badge&logoColor=white&logo=code"/></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/097ea9ea-9a0a-4a62-a530-bb0156aefb42">
+        <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/cloud%20skills-red?style=for-the-badge&logoColor=white&logo=cloud"/></a>
     <a href="https://github.com/mateuszs6?tab=repositories&sort=stargazers">
         <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-yellow?style=for-the-badge&logoColor=white&logo=star"/></a>
 </p>
