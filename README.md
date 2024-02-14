@@ -56,7 +56,7 @@ Check out my [repos](https://github.com/mateuszs6?tab=repositories)!
 - 🎲 Dice Roller (2023-2024)
 
 Non-GitHub Projects:
-- 🐈 [The Shadow Cat](https://flowlab.io/games/play/937230) (2018)
+- 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) (2018)
 - 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) (2021/22)
 
 #
