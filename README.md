@@ -52,9 +52,13 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 
 ### 🗃️ Notable Projects
 
+Currently working on:
+- A program that interacts with network services (Computer Networks coursework)
+- An asteroid shooting game (Games Technology coursework)
+
 Check out my [repos](https://github.com/mateuszs6?tab=repositories)!
 - 🦸 Marvel Database (2022-2023)
-- ⚔️ Hero Versus (2023)
+- ⚔️ HeroVersus (2023)
 - 🥇 Fortnite Win Tracker2 (2023)
 - ⭕ Naughts And Crosses (2023)
 - 📜 Recipe Database Simulation (2023)
