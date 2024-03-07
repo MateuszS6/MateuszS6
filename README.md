@@ -52,11 +52,11 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 
 ### 🗃️ Notable Projects
 
-Currently working on:
+Cool stuff I'm currently working on:
 - 🌐 A 2D#4 network protocol program (Computer Networks coursework)
 - ☄ An asteroid shooting game (Games Technology coursework)
 
-Check out my [repos](https://github.com/mateuszs6?tab=repositories)!
+Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
 - 🎲 Dice Roller (2023-24)
 - 📜 Recipe Database Simulation (2023)
 - ⭕ Naughts And Crosses (2023)
@@ -64,7 +64,7 @@ Check out my [repos](https://github.com/mateuszs6?tab=repositories)!
 - ⚔️ HeroVersus (2023)
 - 🦸 Marvel Database (2022-23)
 
-Non-GitHub Projects:
+And my non-GitHub Projects:
 - 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) (2021-22)
 - 🥇 Fortnite Win Tracker (2020-21)
 - ❓ Ultimate Number Guesser (2020)
