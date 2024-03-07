@@ -59,13 +59,17 @@ Currently working on:
 Check out my [repos](https://github.com/mateuszs6?tab=repositories)!
 - 🦸 Marvel Database (2022-2023)
 - ⚔️ HeroVersus (2023)
-- 🥇 Fortnite Win Tracker2 (2023)
+- 🥈 Fortnite Win Tracker 2 (2023)
 - ⭕ Naughts And Crosses (2023)
 - 📜 Recipe Database Simulation (2023)
 - 🎲 Dice Roller (2023-2024)
 
 Non-GitHub Projects:
 - 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) (2018)
+- 🥇 Fortnite Win Tracker (2020)
+- 🟩 Minecraft Block Area Calculator (2020)
+- 🧮 N-Calculator (2020)
+- ❔ Ultimate Number Guesser (2020)
 - 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) (2021/22)
 
 #
