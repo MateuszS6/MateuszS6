@@ -53,8 +53,8 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 ### 🗃️ Notable Projects
 
 Currently working on:
-- A 2D#4 network protocol program (Computer Networks coursework)
-- An asteroid shooting game (Games Technology coursework)
+- 🌐 A 2D#4 network protocol program (Computer Networks coursework)
+- ☄ An asteroid shooting game (Games Technology coursework)
 
 Check out my [repos](https://github.com/mateuszs6?tab=repositories)!
 - 🎲 Dice Roller (2023-24)
