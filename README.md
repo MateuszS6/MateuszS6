@@ -52,8 +52,6 @@ I'm a student currrently pursuing a Master's in Computer Science with Games Tech
 
 ### 🗃️ Notable Projects
 
-Cool stuff I'm currently working on:
-
 Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
 - 🌐 2D#4 (2024)
 - ☄ Asteroids (2024)
