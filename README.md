@@ -51,7 +51,9 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 
 ### 🗃️ Notable Projects
 
-*Currently working on: Minecraft Nether Calculator (Web Design Project)*
+*Currently working on:*
+- *'Focusyn' Productivity App (Final Year Project)*
+- *Minecraft Nether Calculator (Web App)*
 
 Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
 - 🌐 2D#4 (2024)
