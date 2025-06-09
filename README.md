@@ -1,10 +1,10 @@
 # 🚀 Mateusz Stepien
 
-**`Digital Craftsman` `Computer Scientist Student`**
+**`Computer Scientist Student` `Digital Craftsman` `Content Creator`**
 
 ### Hi there 👋
 
-I'm a student currrently pursuing a Master's in Computer Science at City, University of London. I'm driven by the desire to gain new experiences, contribute to innovative projects, and make a meaningful impact, all while remaining deeply passionate for software engineering, games, data science and cyber security. All coding projects are developed from the ground up, from planning and designing all the way to solving real problems with code. Learning is everything to me, and I strive to always continue learning new things.
+I'm a student currently pursuing a Bachelor's in CS at City St George's, University of London. I'm driven by the desire to gain new experiences, contribute to innovative projects, and make a meaningful impact, all while remaining deeply passionate for software engineering, games, data science and cyber security. All coding projects are developed from the ground up, from planning and designing all the way to solving real problems with code. Learning is everything to me, and I strive to always continue learning new things.
 
 <!-- Social badges -->
 
