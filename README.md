@@ -13,7 +13,7 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 <p align="left">
     <a href="https://github.com/MateuszS6?tab=followers">
         <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/follow-640464?style=for-the-badge&logoColor=white&logo=people"/></a>
-    <a href="https://www.linkedin.com/in/mateusz-stepien-ms6">
+    <a href="https://www.linkedin.com/in/matz-stepien">
         <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/connect-1155ba?style=for-the-badge&logoColor=white&logo=person-add"/></a>
     <a href="https://g.dev/mateusz-stepien">
         <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/google%20dev-55960c?style=for-the-badge&logoColor=white&logo=code"/></a>
@@ -56,15 +56,15 @@ I'm a student currrently pursuing a Master's in Computer Science at City, Univer
 - *Minecraft Nether Calculator (Web App)*
 
 Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
-- 🌐 2D#4 (2024)
-- ☄ Asteroids (2024)
-- 🛃 Restaurant Management (2024)
-- 🎲 Dice Roller (2023-24)
-- 📜 Recipe Database Simulation (2023)
-- ⭕ Naughts And Crosses (2023)
-- 🥈 Fortnite Win Tracker 2 (2023)
-- ⚔️ HeroVersus (2023)
-- 🦸 Marvel Database (2022-23)
+- 🌐 [2D#4](https://github.com/MateuszS6/2DH4) (2024)
+- ☄ [Asteroids](https://github.com/MateuszS6/AsteroidsGame) (2024)
+- 🛃 [Restaurant Management](https://github.com/MateuszS6/RestaurantManagementSystem) (2024)
+- 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller) (2023-24)
+- 📜 [Recipe Database Simulation](https://github.com/MateuszS6/RecipeDatabaseSimulator) (2023)
+- ⭕ [Naughts And Crosses](https://github.com/MateuszS6/NaughtsAndCrosses) (2023)
+- 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/FortniteWinTracker2) (2023)
+- ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame) (2023)
+- 🦸 [Marvel Database](https://github.com/MateuszS6/marvel_db) (2022-23)
 
 And my non-GitHub Projects:
 - 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) (2021-22)
