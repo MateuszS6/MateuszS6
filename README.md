@@ -57,14 +57,14 @@ I'm a student currently pursuing a Bachelor's in CS at City St George's, Univers
 
 Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
 - 🌐 [2D#4](https://github.com/MateuszS6/2DH4) (2024)
-- ☄ [Asteroids](https://github.com/MateuszS6/AsteroidsGame) (2024)
+- ☄ [Asteroids Game](https://github.com/MateuszS6/AsteroidsGame) (2024)
 - 🛃 [Restaurant Management](https://github.com/MateuszS6/RestaurantManagementSystem) (2024)
 - 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller) (2023-24)
 - 📜 [Recipe Database Simulation](https://github.com/MateuszS6/RecipeDatabaseSimulator) (2023)
 - ⭕ [Naughts And Crosses](https://github.com/MateuszS6/NaughtsAndCrosses) (2023)
 - 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/FortniteWinTracker2) (2023)
 - ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame) (2023)
-- 🦸 [Marvel Database](https://github.com/MateuszS6/marvel_db) (2022-23)
+- 🦸 [Marvel SQL Analytics](https://github.com/MateuszS6/marvel_db) (2022-23)
 
 And my non-GitHub Projects:
 - 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) (2021-22)
