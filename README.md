@@ -53,7 +53,7 @@ I'm a student currently pursuing a Bachelor's in CS at City St George's, Univers
 
 *Currently working on:*
 - *'Focusyn' Productivity App (Final Year Project)*
-- *Minecraft Nether Calculator (Web App)*
+- *Minecraft Calculator (Web App)*
 
 Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
 - 🌐 [2D#4](https://github.com/MateuszS6/2DH4) (2024)
