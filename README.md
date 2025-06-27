@@ -1,6 +1,6 @@
 # 🚀 Mateusz Stepien
 
-**`Computer Scientist Student` `Digital Craftsman` `Content Creator`**
+**`Computer Scientist Graduate`  `Digital Craftsman` `Content Creator`**
 
 ### Hi there 👋
 
