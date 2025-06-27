@@ -23,8 +23,6 @@ I'm a student currently pursuing a Bachelor's in CS at City St George's, Univers
         <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/stars-gold?style=for-the-badge&logoColor=black&logo=star"/></a>
 </p>
 
-#
-
 ## 🧰 Tech Stack
 
 <!-- COPY+PASTE: [align="left" title="NAME" width="40px" style="padding-right:10px;" ] -->
@@ -46,8 +44,6 @@ I'm a student currently pursuing a Bachelor's in CS at City St George's, Univers
 <img align="left" title="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" title="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <br />
-
-#
 
 ## 🗃️ Notable Projects
 
@@ -74,15 +70,11 @@ And my non-GitHub Projects:
 - 🟩 Minecraft Block Area Calculator (2020)
 - 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) (2018)
 
-#
-
 ## 📈 My Stats
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=MateuszS6&show_icons=true&theme=prussian) -->
 [![stats](https://github-readme-stats.vercel.app/api?username=MateuszS6)](https://github.com/anuraghazra/github-readme-stats)
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszS6&layout=compact&hide=c,cmake)](https://github.com/anuraghazra/github-readme-stats)
-
-#
 
 <!-- COMPLETE/CHANGE THIS -->
 
