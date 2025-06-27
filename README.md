@@ -1,6 +1,6 @@
 # 🚀 Mateusz Stepien
 
-**`Computer Scientist Graduate`  `Digital Craftsman` `Content Creator`**
+**`Computer Scientist Graduate` `Digital Craftsman` `Content Creator`**
 
 ### Hi there 👋
 
@@ -52,7 +52,7 @@ I'm a student currently pursuing a Bachelor's in CS at City St George's, Univers
 ### 🗃️ Notable Projects
 
 *Currently working on:*
-- *'Focusyn' Productivity App (Final Year Project)*
+- *Focusyn App (Final Year Project)*
 - *Minecraft Calculator (Web App)*
 
 Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
