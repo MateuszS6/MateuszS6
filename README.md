@@ -80,7 +80,8 @@ And my non-GitHub Projects:
 
 <details>
     <summary><h3>👨‍💻 Mateusz's Coding Journey</h3></summary>
-    ...
+    Nothing here...
+</details>
 
 <!--
 
