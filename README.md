@@ -1,8 +1,8 @@
 # 🚀 Mateusz Stepien
 
-**`Computer Scientist Graduate` `Digital Craftsman` `Content Creator`**
+**`Computer Science Graduate` `Digital Craftsman` `Content Creator`**
 
-## Hi there 👋
+## Hello 👋
 
 I'm a student currently pursuing a Bachelor's in CS at City St George's, University of London. I'm driven by the desire to gain new experiences, contribute to innovative projects, and make a meaningful impact, all while remaining deeply passionate for software engineering, games, data science and cyber security. All coding projects are developed from the ground up, from planning and designing all the way to solving real problems with code. Learning is everything to me, and I strive to always continue learning new things.
 
@@ -23,7 +23,7 @@ I'm a student currently pursuing a Bachelor's in CS at City St George's, Univers
         <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/stars-gold?style=for-the-badge&logoColor=black&logo=star"/></a>
 </p>
 
-## 🧰 Tech Stack
+## 🧰 Lanuages & Tools
 
 <!-- COPY+PASTE: [align="left" title="NAME" width="40px" style="padding-right:10px;" ] -->
 
@@ -45,7 +45,7 @@ I'm a student currently pursuing a Bachelor's in CS at City St George's, Univers
 <img align="left" title="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <br />
 
-## 🗃️ Notable Projects
+## 🗃️ Projects
 
 *Currently working on:*
 - *Focusyn App (Final Year Project)*
