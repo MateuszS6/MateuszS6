@@ -47,10 +47,8 @@ I'm a student currently pursuing a Bachelor's in CS at City St George's, Univers
 
 ## 🗃️ Projects
 
-*Currently working on:*
-- *Minecraft Calculator (Web App)*
-
 Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
+- 🧊 [Minecraft Calculator](https://github.com/MateuszS6/minecraft-calculator) (2025)
 - 🎯 [Focusyn](https://github.com/MateuszS6/FocusynApp) (2025)
 - 🌐 [2D#4](https://github.com/MateuszS6/2DH4) (2024)
 - ☄ [Asteroids Game](https://github.com/MateuszS6/AsteroidsGame) (2024)
