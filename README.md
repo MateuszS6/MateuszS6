@@ -62,7 +62,7 @@ Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
 
 And my non-GitHub Projects:
 - 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) (2021-22)
-- 🥇 Fortnite Win Tracker (2020-21)
+- 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/fortnite-win-tracker) (2020-21)
 - ❓ Ultimate Number Guesser (2020)
 - 🧮 N-Calculator (2020)
 - 🟩 Minecraft Block Area Calculator (2020)
