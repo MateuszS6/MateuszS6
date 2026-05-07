@@ -47,7 +47,10 @@ I'm a recent graduate who studied a Bachelor's in CS at City St George's, Univer
 
 ## 🗃️ Projects
 
-Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
+#### 👉 Currently working on [MindCache](https://github.com/MateuszS6/mind-cache) (an AI summary API).
+
+### My [repos](https://github.com/mateuszs6?tab=repositories):
+
 - 🧊 [Minecraft Calculator](https://github.com/MateuszS6/minecraft-calculator) (2025)
 - 🎯 [Focusyn](https://github.com/MateuszS6/FocusynApp) (2025)
 - 🌐 [2D#4](https://github.com/MateuszS6/2DH4) (2024)
@@ -60,7 +63,8 @@ Check out my [repositories](https://github.com/mateuszs6?tab=repositories)!
 - ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame) (2023)
 - 🦸 [Marvel SQL Analytics](https://github.com/MateuszS6/marvel_db) (2022-23)
 
-And my non-GitHub Projects:
+### Other projects:
+
 - 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) (2021-22)
 - 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/fortnite-win-tracker) (2020-21)
 - ❓ Ultimate Number Guesser (2020)
