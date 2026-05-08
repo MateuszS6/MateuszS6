@@ -47,30 +47,34 @@ I'm a recent graduate who studied a Bachelor's in CS at City St George's, Univer
 
 ## 🗃️ Projects
 
-#### 👉 Currently working on [MindCache](https://github.com/MateuszS6/mind-cache) (an AI summary API).
+### 👉 Currently working on [MindCache](https://github.com/MateuszS6/mind-cache) - an AI summary API.
 
-### My [repos](https://github.com/mateuszs6?tab=repositories):
+| Project | Stack | Year |
+|---|---|---|
+| 🧊 [Minecraft Calculator](https://github.com/MateuszS6/minecraft-calculator) | HTML/CSS, JavaScript | 2025 |
+| 🎯 [Focusyn](https://github.com/MateuszS6/FocusynApp) | Flutter, Firebase, OpenAI | 2025 |
+| 🌐 [2D#4](https://github.com/MateuszS6/2DH4) | Java, Wireshark | 2024 |
+| ☄ [Asteroids Game](https://github.com/MateuszS6/AsteroidsGame) | C++ | 2024 |
+| 🛃 [Restaurant Management](https://github.com/MateuszS6/RestaurantManagementSystem) | Java, SQL | 2024 |
+| 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller) | Kotlin, Jetpack Compose | 2023-24 |
+| 📜 [Recipe Database Simulation](https://github.com/MateuszS6/RecipeDatabaseSimulator) | C++ | 2023 |
+| ⭕ [Naughts And Crosses](https://github.com/MateuszS6/NaughtsAndCrosses) | Java, Java Swing | 2023 |
+| 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/FortniteWinTracker2) | Java, Java Swing | 2023 |
+| ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame) | Java, JBox2D | 2023 |
+| 🦸 [Marvel SQL Analytics](https://github.com/MateuszS6/marvel_db) | MySQL, PHP, UML | 2022-23 |
 
-- 🧊 [Minecraft Calculator](https://github.com/MateuszS6/minecraft-calculator) (2025)
-- 🎯 [Focusyn](https://github.com/MateuszS6/FocusynApp) (2025)
-- 🌐 [2D#4](https://github.com/MateuszS6/2DH4) (2024)
-- ☄ [Asteroids Game](https://github.com/MateuszS6/AsteroidsGame) (2024)
-- 🛃 [Restaurant Management](https://github.com/MateuszS6/RestaurantManagementSystem) (2024)
-- 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller) (2023-24)
-- 📜 [Recipe Database Simulation](https://github.com/MateuszS6/RecipeDatabaseSimulator) (2023)
-- ⭕ [Naughts And Crosses](https://github.com/MateuszS6/NaughtsAndCrosses) (2023)
-- 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/FortniteWinTracker2) (2023)
-- ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame) (2023)
-- 🦸 [Marvel SQL Analytics](https://github.com/MateuszS6/marvel_db) (2022-23)
+#### 👉 Visit my [repos](https://github.com/mateuszs6?tab=repositories).
 
 ### Other projects:
 
-- 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) (2021-22)
-- 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/fortnite-win-tracker) (2020-21)
-- ❓ Ultimate Number Guesser (2020)
-- 🧮 N-Calculator (2020)
-- 🟩 Minecraft Block Area Calculator (2020)
-- 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) (2018)
+| Project | Stack | Year |
+|---|---|---|
+| 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) | Python, PyGame | 2021-22 | 
+| 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/fortnite-win-tracker) | Python | 2020-21 |
+| ❓ Ultimate Number Guesser | Python | 2020 |
+| 🧮 N-Calculator | Python | 2020 |
+| 🟩 Minecraft Block Area Calculator | Python | 2020 |
+| 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) | Flowlab | 2018 |
 
 ## 📈 My Stats
 
