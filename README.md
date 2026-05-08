@@ -45,7 +45,7 @@ I'm a recent graduate who studied a Bachelor's in CS at City St George's, Univer
 <img align="left" title="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <br />
 
-## 🗃️ Projects
+## 🗃️ Featured Projects
 
 ### 👉 Currently working on [MindCache](https://github.com/MateuszS6/mind-cache) - an AI summary API.
 
@@ -63,7 +63,7 @@ I'm a recent graduate who studied a Bachelor's in CS at City St George's, Univer
 | ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame) | Java, JBox2D | 2023 |
 | 🦸 [Marvel SQL Analytics](https://github.com/MateuszS6/marvel_db) | MySQL, PHP, UML | 2022-23 |
 
-#### 👉 Visit my [repos](https://github.com/mateuszs6?tab=repositories).
+#### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories).
 
 ### Other projects:
 
@@ -83,6 +83,8 @@ I'm a recent graduate who studied a Bachelor's in CS at City St George's, Univer
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszS6&layout=compact&hide=c,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- COMPLETE/CHANGE THIS -->
+
+---
 
 <details>
     <summary><h3>👨‍💻 Mateusz's Coding Journey</h3></summary>
