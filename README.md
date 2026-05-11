@@ -61,7 +61,7 @@ I'm a recent graduate who studied a Bachelor's in CS at City St George's, Univer
 | ⭕ [Naughts And Crosses](https://github.com/MateuszS6/NaughtsAndCrosses) | Java, Java Swing | Personal version of tic tac toe GUI game. | 2023 |
 | 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/FortniteWinTracker2) | Java, Java Swing | Upgraded version of Fortnite Win Tracker using GUI. | 2023 |
 | ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | 2023 |
-| 🦸 [Marvel Analytics Database](https://github.com/MateuszS6/marvel-sql-analytics) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | 2022-23 |
+| 🦸 [Marvel Analytics Database](https://github.com/MateuszS6/marvel-analytics-database) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | 2022-23 |
 
 #### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories).
 
@@ -72,7 +72,7 @@ I'm a recent graduate who studied a Bachelor's in CS at City St George's, Univer
 | 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) | Python, PyGame | 2021-22 | 
 | 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/fortnite-win-tracker) | Python | 2020-21 |
 | ❓ Ultimate Number Guesser | Python | 2020 |
-| 🧮 N-Calculator | Python | | 2020 |
+| 🧮 N-Calculator | Python | 2020 |
 | 🟩 Minecraft Block Area Calculator | Python | 2020 |
 | 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) | Flowlab | 2018 |
 
