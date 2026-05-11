@@ -61,7 +61,7 @@ I'm a recent graduate who studied a Bachelor's in CS at City St George's, Univer
 | ⭕ [Naughts And Crosses](https://github.com/MateuszS6/NaughtsAndCrosses) | Java, Java Swing | Personal version of tic tac toe GUI game. | 2023 |
 | 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/FortniteWinTracker2) | Java, Java Swing | Upgraded version of Fortnite Win Tracker using GUI. | 2023 |
 | ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | 2023 |
-| 🦸 [Marvel SQL Analytics](https://github.com/MateuszS6/marvel_db) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | 2022-23 |
+| 🦸 [Marvel SQL Analytics](https://github.com/MateuszS6/marvel-sql-analytics) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | 2022-23 |
 
 #### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories).
 
