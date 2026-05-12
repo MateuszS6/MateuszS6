@@ -4,7 +4,11 @@
 
 ## Hello 👋
 
-I'm a recent graduate who studied a Bachelor's in CS at City St George's, University of London. I'm driven by the desire to gain new experiences, contribute to innovative projects, and make a meaningful impact, all while remaining deeply passionate for software engineering, games, data science and cyber security. All coding projects are developed from the ground up, from planning and designing all the way to solving real problems with code. Learning is everything to me, and I strive to always continue learning new things.
+Computer Science graduate from City St George's, University of London actively seeking graduate and junior software engineering roles.
+
+I build projects across software engineering, game development, data science, and cyber security, with an emphasis on clean design, problem-solving, and continuous learning.
+
+My projects are developed end-to-end — from planning and system design through to implementation — and I’m always looking to expand my technical skills by building practical, challenging, and user-centred applications.
 
 <!-- Social badges -->
 
