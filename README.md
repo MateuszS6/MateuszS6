@@ -1,8 +1,8 @@
-# 🚀 Mateusz Stepien
+# 👋 Hello, I'm Mateusz
 
 **`Computer Science Graduate` `Digital Craftsman` `Content Creator`**
 
-## Hello 👋
+## About Me
 
 Computer Science graduate from City St George's, University of London actively seeking graduate and junior software engineering roles.
 
@@ -81,6 +81,9 @@ My projects are developed end-to-end — from planning and system design through
 | 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) | Flowlab | 2018 |
 
 ## My Stats
+
+> [!IMPORTANT]
+> This is not working right now.
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=MateuszS6&show_icons=true&theme=prussian) -->
 [![stats](https://github-readme-stats.vercel.app/api?username=MateuszS6)](https://github.com/anuraghazra/github-readme-stats)
