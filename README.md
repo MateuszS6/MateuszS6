@@ -89,15 +89,6 @@ My projects are developed end-to-end — from planning and system design through
 [![stats](https://github-readme-stats.vercel.app/api?username=MateuszS6)](https://github.com/anuraghazra/github-readme-stats)
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszS6&layout=compact&hide=c,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- COMPLETE/CHANGE THIS -->
-
----
-
-<details>
-    <summary><h3>👨‍💻 Mateusz's Coding Journey</h3></summary>
-    Nothing here...
-</details>
-
 <!--
 
 **MateuszS6/MateuszS6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
