@@ -49,6 +49,8 @@ My projects are developed end-to-end — from planning and system design through
 <img align="left" title="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <br />
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ## Featured Projects
 
 ### 👉 Currently working on [MindCache](https://github.com/MateuszS6/mind-cache) - an AI summary API.
