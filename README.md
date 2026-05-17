@@ -84,12 +84,11 @@ My projects are developed end-to-end — from planning and system design through
 
 ## My Stats
 
-> [!IMPORTANT]
-> This is not working right now.
+<!-- [![stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=MateuszS6&theme=prussian&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MateuszS6&theme=prussian&hide_border=true&layout=compact&hide=c,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![stats](https://github-readme-stats.vercel.app/api?username=MateuszS6&show_icons=true&theme=prussian) -->
-[![stats](https://github-readme-stats.vercel.app/api?username=MateuszS6)](https://github.com/anuraghazra/github-readme-stats)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszS6&layout=compact&hide=c,cmake)](https://github.com/anuraghazra/github-readme-stats)
+> [!NOTE]
+> Most Used Languages is only a metric of the top languages my public code consists of, and does not reflect my experience or skill level.
 
 <!--
 
