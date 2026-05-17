@@ -33,53 +33,53 @@ My projects are developed end-to-end — from planning and system design through
 
 ## Lanuages & Tools
 
-<img title="Java" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript"/>
-<img title="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
-<img title="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
-<img title="OpenAI" src="https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openaigym&logoColor=white"/>
-<img title="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img title="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img title="Flutter" src="https://img.shields.io/badge/Flutter-dodgerblue?style=for-the-badge&logo=flutter"/>
-<img title="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart"/>
-<img title="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img title="JetBrains Suite" src="https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-<img title="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![OpenAI](https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openaigym&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-dodgerblue?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JetBrains Suite](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<br></br>
 
 ## Featured Projects
 
 ### 👉 Currently working on [MindCache](https://github.com/MateuszS6/mind-cache) - an AI summary API.
 
-| Project | Stack | Description | Year |
-|-|-|-|-|
-| 🧊 [Minecraft Calculator](https://github.com/MateuszS6/minecraft-calculator) | HTML/CSS, JavaScript | Web app for essential Minecraft calculations. | 2025 |
-| 🎯 [Focusyn](https://github.com/MateuszS6/FocusynApp) | Flutter, Firebase, OpenAI | Productivity app for overthinkers and ADHD. | 2025 |
-| 🌐 [2D#4](https://github.com/MateuszS6/2DH4) | Java, Wireshark | Dynamic peer-to-peer network hash table. | 2024 |
-| ☄ [Asteroids Game](https://github.com/MateuszS6/AsteroidsGame) | C++ | Enhanced, strategic asteroid shooting game. | 2024 |
-| 🛃 [Restaurant Management](https://github.com/MateuszS6/RestaurantManagementSystem) | Java, SQL | System for comprehensive restaurant management. | 2024 |
-| 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller) | Kotlin, Jetpack Compose | Simple, minimalistic dice rolling app. | 2023-24 |
-| 📜 [Recipe Database Simulation](https://github.com/MateuszS6/RecipeDatabaseSimulator) | C++ | Simulation of simple databse operations. | 2023 |
-| ⭕ [Naughts And Crosses](https://github.com/MateuszS6/NaughtsAndCrosses) | Java, Java Swing | Personal version of tic tac toe GUI game. | 2023 |
-| 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/FortniteWinTracker2) | Java, Java Swing | Upgraded version of Fortnite Win Tracker using GUI. | 2023 |
-| ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | 2023 |
-| 🦸 [Marvel Analytics Database](https://github.com/MateuszS6/marvel-analytics-database) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | 2022-23 |
+| Project                                                                               | Stack                     | Description                                               | Year    |
+| ------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------- | ------- |
+| 🧊 [Minecraft Calculator](https://github.com/MateuszS6/minecraft-calculator)           | HTML/CSS, JavaScript      | Web app for essential Minecraft calculations.             | 2025    |
+| 🎯 [Focusyn](https://github.com/MateuszS6/FocusynApp)                                  | Flutter, Firebase, OpenAI | Productivity app for overthinkers and ADHD.               | 2025    |
+| 🌐 [2D#4](https://github.com/MateuszS6/2DH4)                                           | Java, Wireshark           | Dynamic peer-to-peer network hash table.                  | 2024    |
+| ☄ [Asteroids Game](https://github.com/MateuszS6/AsteroidsGame)                        | C++                       | Enhanced, strategic asteroid shooting game.               | 2024    |
+| 🛃 [Restaurant Management](https://github.com/MateuszS6/RestaurantManagementSystem)    | Java, SQL                 | System for comprehensive restaurant management.           | 2024    |
+| 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller)                              | Kotlin, Jetpack Compose   | Simple, minimalistic dice rolling app.                    | 2023-24 |
+| 📜 [Recipe Database Simulation](https://github.com/MateuszS6/RecipeDatabaseSimulator)  | C++                       | Simulation of simple databse operations.                  | 2023    |
+| ⭕ [Naughts And Crosses](https://github.com/MateuszS6/NaughtsAndCrosses)               | Java, Java Swing          | Personal version of tic tac toe GUI game.                 | 2023    |
+| 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/FortniteWinTracker2)          | Java, Java Swing          | Upgraded version of Fortnite Win Tracker using GUI.       | 2023    |
+| ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersusGame)                           | Java, JBox2D              | Two-player hero fighting platformer with physics and GUI. | 2023    |
+| 🦸 [Marvel Analytics Database](https://github.com/MateuszS6/marvel-analytics-database) | MySQL, PHP, UML           | Comprehensive SQL database of projects and characters.    | 2022-23 |
 
 #### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories).
 
 
 ### Other projects:
 
-| Project | Stack | Year |
-|-|-|-|
-| 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) | Python, PyGame | 2021-22 | 
-| 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/fortnite-win-tracker) | Python | 2020-21 |
-| ❓ Ultimate Number Guesser | Python | 2020 |
-| 🧮 N-Calculator | Python | 2020 |
-| 🟩 Minecraft Block Area Calculator | Python | 2020 |
-| 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) | Flowlab | 2018 |
+| Project                                                                                             | Stack          | Year    |
+| --------------------------------------------------------------------------------------------------- | -------------- | ------- |
+| 🏃‍♂️ [The Traveller's Mission](https://replit.com/@MateuszStepien1/The-Travellers-Mission?v=1#main.py) | Python, PyGame | 2021-22 |
+| 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/fortnite-win-tracker)                         | Python         | 2020-21 |
+| ❓ Ultimate Number Guesser                                                                           | Python         | 2020    |
+| 🧮 N-Calculator                                                                                      | Python         | 2020    |
+| 🟩 Minecraft Block Area Calculator                                                                   | Python         | 2020    |
+| 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230)                                           | Flowlab        | 2018    |
 
 
 ## My Stats
