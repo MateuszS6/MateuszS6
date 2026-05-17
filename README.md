@@ -2,6 +2,7 @@
 
 **`Computer Science Graduate` `Digital Craftsman` `Content Creator`**
 
+
 ## About Me
 
 Computer Science graduate from City St George's, University of London actively seeking graduate and junior software engineering roles.
@@ -14,22 +15,26 @@ My projects are developed end-to-end — from planning and system design through
 
 <!-- FORMAT: [https://custom-icon-badges.demolab.com/badge/[TEXT]-[COLOUR]?style=for-the-badge&logoColor=[BG_COLOUR]&logo=[LOGO_NAME]] -->
 
+<!-- Make these dynamic. -->
+
 <p align="left">
     <a href="https://github.com/MateuszS6?tab=followers">
-        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/follow-640464?style=for-the-badge&logoColor=white&logo=people"/></a>
+        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/Follow-640464?logo=github"/></a>
     <a href="https://www.linkedin.com/in/matz-stepien">
-        <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/connect-1155ba?style=for-the-badge&logoColor=white&logo=person-add"/></a>
+        <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/Connect-darkslateblue?logo=person-add"/></a>
     <a href="https://g.dev/mateusz-stepien">
-        <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/google%20dev-55960c?style=for-the-badge&logoColor=white&logo=code"/></a>
+        <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/Google_Dev-228B22?logo=code"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/097ea9ea-9a0a-4a62-a530-bb0156aefb42">
-        <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/cloud%20skills-red?style=for-the-badge&logoColor=white&logo=cloud"/></a>
-    <a href="https://github.com/mateuszs6?tab=repositories&sort=stargazers">
-        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/stars-gold?style=for-the-badge&logoColor=black&logo=star"/></a>
+        <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/Cloud_Skills-red?logo=cloud"/></a>
+    <a href="https://github.com/MateuszS6?tab=repositories&q=&type=&language=&sort=stargazers">
+        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-gold?logo=star&logoColor=black"/></a>
 </p>
+
 
 ## Lanuages & Tools
 
 <!-- COPY+PASTE: [align="left" title="NAME" width="40px" style="padding-right:10px;" ] -->
+<!-- FORMAT: [align="left" title="NAME" width="40px" style="padding-right:10px;" ] -->
 
 <img align="left" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -47,9 +52,9 @@ My projects are developed end-to-end — from planning and system design through
 <img align="left" title="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" title="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" title="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<br />
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br /><br>
+
 
 ## Featured Projects
 
@@ -71,6 +76,7 @@ My projects are developed end-to-end — from planning and system design through
 
 #### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories).
 
+
 ### Other projects:
 
 | Project | Stack | Year |
@@ -81,6 +87,7 @@ My projects are developed end-to-end — from planning and system design through
 | 🧮 N-Calculator | Python | 2020 |
 | 🟩 Minecraft Block Area Calculator | Python | 2020 |
 | 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) | Flowlab | 2018 |
+
 
 ## My Stats
 
