@@ -19,41 +19,34 @@ My projects are developed end-to-end — from planning and system design through
 
 <p align="left">
     <a href="https://github.com/MateuszS6?tab=followers">
-        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/Follow-640464?logo=github"/></a>
+        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/Follow-9-640464?logo=github"/></a>
     <a href="https://www.linkedin.com/in/matz-stepien">
-        <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/Connect-darkslateblue?logo=person-add"/></a>
+        <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/Connect-369-darkslateblue?logo=linkedi&logoColor=white"/></a>
     <a href="https://g.dev/mateusz-stepien">
-        <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/Google_Dev-228B22?logo=code"/></a>
+        <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/Google_Dev-9-228B22?logo=code"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/097ea9ea-9a0a-4a62-a530-bb0156aefb42">
-        <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/Cloud_Skills-red?logo=cloud"/></a>
+        <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/Cloud_Skills-7735-red?logo=cloud"/></a>
     <a href="https://github.com/MateuszS6?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-gold?logo=star&logoColor=black"/></a>
+        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-1-gold?logo=star"/></a>
 </p>
 
 
 ## Lanuages & Tools
 
-<!-- COPY+PASTE: [align="left" title="NAME" width="40px" style="padding-right:10px;" ] -->
-<!-- FORMAT: [align="left" title="NAME" width="40px" style="padding-right:10px;" ] -->
-
-<img align="left" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" title="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" title="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img align="left" title="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" title="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" title="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<img align="left" title="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-<img align="left" title="CLion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
-<img align="left" title="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" title="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" title="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-
-<br /><br>
+<img title="Java" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript"/>
+<img title="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+<img title="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img title="OpenAI" src="https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openaigym&logoColor=white"/>
+<img title="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img title="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img title="Flutter" src="https://img.shields.io/badge/Flutter-dodgerblue?style=for-the-badge&logo=flutter"/>
+<img title="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart"/>
+<img title="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img title="JetBrains Suite" src="https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+<img title="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
 
 ## Featured Projects
