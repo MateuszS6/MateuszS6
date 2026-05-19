@@ -51,10 +51,11 @@ My projects are developed end-to-end — from planning and system design through
 
 ## Featured Projects
 
-### 👉 Currently working on [MindCache](https://github.com/MateuszS6/Mind-Cache) - an AI summary API.
+### 👉 Currently working on [MindCache](https://github.com/MateuszS6/Mind-Cache) ¬ an AI summary API.
 
 | Project                                                                               | Stack                     | Description                                               | Year    |
 | ------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------- | ------- |
+| 🧠 [MindCache](https://github.com/MateuszS6/Mind-Cache) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | 2026 |
 | 🧊 [Minecraft Calculator](https://github.com/MateuszS6/Minecraft-Calculator)           | HTML/CSS, JavaScript      | Web app for essential Minecraft calculations.             | 2025    |
 | 🎯 [Focusyn](https://github.com/MateuszS6/Focusyn-App)                                  | Flutter, Firebase, OpenAI | Productivity app for overthinkers and ADHD.               | 2025    |
 | 🌐 [2D#4](https://github.com/MateuszS6/2DH4)                                           | Java, Wireshark           | Dynamic peer-to-peer network hash table.                  | 2024    |
