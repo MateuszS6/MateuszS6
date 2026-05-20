@@ -52,7 +52,7 @@ My projects are developed end-to-end — from planning and system design through
 
 ## Featured Projects
 
-### _Post-Grad Era_
+### _Graduate Era_
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
