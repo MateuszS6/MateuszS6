@@ -1,17 +1,8 @@
 # 👋 Hello, I'm Mateusz
 
-**`Computer Science Graduate` `Digital Craftsman` `Content Creator`**
+<!-- Badges -->
 
-
-## About Me
-
-Computer Science graduate from City St George's, University of London actively seeking graduate and junior software engineering roles.
-
-I build projects across software engineering, game development, data science, and cyber security, with an emphasis on clean design, problem-solving, and continuous learning.
-
-My projects are developed end-to-end — from planning and system design through to implementation — and I’m always looking to expand my technical skills by building practical, challenging, and user-centred applications.
-
-<!-- Social badges -->
+#### _`Computer Science Graduate` `Digital Craftsman` `Content Creator`_
 
 <!-- FORMAT: [https://custom-icon-badges.demolab.com/badge/[TEXT]-[COLOUR]?style=for-the-badge&logoColor=[BG_COLOUR]&logo=[LOGO_NAME]] -->
 
@@ -31,6 +22,15 @@ My projects are developed end-to-end — from planning and system design through
 </p>
 
 
+## About Me
+
+Computer Science graduate from City St George's, University of London actively seeking graduate and junior software engineering roles.
+
+I build projects across software engineering, game development, data science, and cyber security, with an emphasis on clean design, problem-solving, and continuous learning.
+
+My projects are developed end-to-end — from planning and system design through to implementation — and I’m always looking to expand my technical skills by building practical, challenging, and user-centred applications.
+
+
 ## Lanuages & Tools
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript)
@@ -42,46 +42,51 @@ My projects are developed end-to-end — from planning and system design through
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-dodgerblue?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JetBrains Suite](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![JetBrains Suite](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
 <br></br>
 
 ## Featured Projects
 
-### 👉 Currently working on [MindCache](https://github.com/MateuszS6/Mind-Cache) ¬ an AI summary API.
+### _Post-Grad Era_
 
-| Project                                                                               | Stack                     | Description                                               | Year    |
-| ------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------- | ------- |
-| 🧠 [MindCache](https://github.com/MateuszS6/Mind-Cache) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | 2026 |
-| 🧊 [Minecraft Calculator](https://github.com/MateuszS6/Minecraft-Calculator)           | HTML/CSS, JavaScript      | Web app for essential Minecraft calculations.             | 2025    |
-| 🎯 [Focusyn](https://github.com/MateuszS6/Focusyn-App)                                  | Flutter, Firebase, OpenAI | Productivity app for overthinkers and ADHD.               | 2025    |
-| 🌐 [2D#4](https://github.com/MateuszS6/2DH4)                                           | Java, Wireshark           | Dynamic peer-to-peer network hash table.                  | 2024    |
-| ☄ [Asteroids Game](https://github.com/MateuszS6/Asteroids-Game)                        | C++                       | Enhanced, strategic asteroid shooting game.               | 2024    |
-| 🛃 [Restaurant Management](https://github.com/MateuszS6/Restaurant-Management-System)    | Java, SQL                 | System for comprehensive restaurant management.           | 2024    |
-| 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller)                              | Kotlin, Jetpack Compose   | Simple, minimalistic dice rolling app.                    | 2023-24 |
-| 📜 [Recipe Database Simulation](https://github.com/MateuszS6/Recipe-Database-Simulation)  | C++                       | Simulation of simple databse operations.                  | 2023    |
-| ⭕ [Naughts And Crosses](https://github.com/MateuszS6/Naughts-and-Crosses)               | Java, Java Swing          | Personal version of tic tac toe GUI game.                 | 2023    |
-| 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/Fortnite-Win-Tracker-2)          | Java, Java Swing          | Upgraded version of Fortnite Win Tracker using GUI.       | 2023    |
-| ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersus-Game)                           | Java, JBox2D              | Two-player hero fighting platformer with physics and GUI. | 2023    |
-| 🦸 [Marvel Analytics Database](https://github.com/MateuszS6/Marvel-Analytics-Database) | MySQL, PHP, UML           | Comprehensive SQL database of projects and characters.    | 2022-23 |
+| Project | Stack | Description | Year |
+| - | - | - | - |
+| 🧠 [MindCache](https://github.com/MateuszS6/Mind-Cache) (In Progress) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | 2026-Present |
 
-#### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories).
+###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories).
 
+### _University Era_
 
-### Other projects:
+| Project | Stack | Description | Year |
+| - | - | - | - |
+| 🎯 [Focusyn](https://github.com/MateuszS6/Focusyn-App) | Flutter, Firebase, OpenAI | Productivity app for overthinkers and ADHD. | 2025 |
+| 🧊 [Minecraft Calculator](https://github.com/MateuszS6/Minecraft-Calculator) | HTML/CSS, JavaScript | Web app for essential Minecraft calculations. | 2024-25 |
+| 🌐 [2D#4](https://github.com/MateuszS6/2DH4) | Java, Wireshark | Dynamic peer-to-peer network hash table. | 2024 |
+| ☄ [Asteroids Game](https://github.com/MateuszS6/Asteroids-Game) | C++ | Enhanced, strategic asteroid shooting game. | 2024 |
+| 🛃 [Restaurant Management](https://github.com/MateuszS6/Restaurant-Management-System) | Java, SQL | System for comprehensive restaurant management. | 2024 |
+| 📜 [Recipe Database Simulation](https://github.com/MateuszS6/Recipe-Database-Simulation) | C++ | Simulation of simple databse operations. | 2023 |
+| ⭕ [Naughts And Crosses](https://github.com/MateuszS6/Naughts-and-Crosses) | Java, Java Swing | Personal version of tic tac toe GUI game. | 2023 |
+| ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersus-Game) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | 2023 |
+| 🦸 [Marvel Analytics Database](https://github.com/MateuszS6/Marvel-Analytics-Database) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | 2022-23 |
+<!-- | 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller) | Kotlin, Jetpack Compose | Simple, minimalistic dice rolling app. | 2023-24 | -->
+<!-- | 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/Fortnite-Win-Tracker-2) | Java, Java Swing | Upgraded version of Fortnite Win Tracker using GUI. | 2023 | -->
 
-| Project                                                                                             | Stack          | Year    |
-| --------------------------------------------------------------------------------------------------- | -------------- | ------- |
+### _School Era_
+
+| Project | Stack | Year |
+| - | - | - |
 | 👹 [Orc Encounter](https://github.com/MateuszS6/Orc-Encounter) | Python, Flask | 2021->26 |
 | 🪖 [The Traveller's Mission](https://github.com/MateuszS6/Travellers-Mission) | Python, PyGame | 2021-22 |
-| 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/Fortnite-Win-Tracker)                         | Python         | 2020-21 |
-| ❓ Ultimate Number Guesser                                                                           | Python         | 2020    |
-| 🧮 N-Calculator                                                                                      | Python         | 2020    |
-| 🟩 Minecraft Block Area Calculator                                                                   | Python         | 2020    |
-| 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230)                                           | Flowlab        | 2018    |
+| 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/Fortnite-Win-Tracker) | Python | 2020-21 |
+| 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) | Flowlab | 2018 |
+<!-- | ❓ Ultimate Number Guesser | Python | 2020 | -->
+<!-- | 🧮 N-Calculator | Python | 2020 | -->
+<!-- | 🟩 Minecraft Block Area Calculator | Python | 2020 | -->
 
 
 ## My Stats
