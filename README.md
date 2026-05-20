@@ -56,7 +56,7 @@ My projects are developed end-to-end — from planning and system design through
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
-| 🧠 [MindCache](https://github.com/MateuszS6/Mind-Cache) (In Progress) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | 2026-Present |
+| 🧠 [MindCache](https://github.com/MateuszS6/MindCache) (In Progress) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | 2026-Present |
 
 ###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories).
 
@@ -73,7 +73,7 @@ My projects are developed end-to-end — from planning and system design through
 | 🛃 [Restaurant Management](https://github.com/MateuszS6/Restaurant-Management-System) | Java, SQL | System for comprehensive restaurant management. | 2024 |
 | 📜 [Recipe Database Simulation](https://github.com/MateuszS6/Recipe-Database-Simulation) | C++ | Simulation of simple databse operations. | 2023 |
 | ⭕ [Naughts And Crosses](https://github.com/MateuszS6/Naughts-and-Crosses) | Java, Java Swing | Personal version of tic tac toe GUI game. | 2023 |
-| ⚔️ [HeroVersus](https://github.com/MateuszS6/HeroVersus-Game) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | 2023 |
+| ⚔️ [HeroVersus: Battle Arena](https://github.com/MateuszS6/HeroVersus-Game) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | 2023 |
 | 🦸 [Marvel Analytics Database](https://github.com/MateuszS6/Marvel-Analytics-Database) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | 2022-23 |
 <!-- | 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller) | Kotlin, Jetpack Compose | Simple, minimalistic dice rolling app. | 2023-24 | -->
 <!-- | 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/Fortnite-Win-Tracker-2) | Java, Java Swing | Upgraded version of Fortnite Win Tracker using GUI. | 2023 | -->
@@ -83,7 +83,7 @@ My projects are developed end-to-end — from planning and system design through
 | Project | Stack | Year |
 | - | - | - |
 | 👹 [Orc Encounter](https://github.com/MateuszS6/Orc-Encounter) | Python, Flask | 2021->26 |
-| 🪖 [The Traveller's Mission](https://github.com/MateuszS6/Travellers-Mission) | Python, PyGame | 2021-22 |
+| 🪖 [The Traveller's Mission](https://github.com/MateuszS6/Travellers-Mission-Game) | Python, PyGame | 2021-22 |
 | 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/Fortnite-Win-Tracker) | Python | 2020-21 |
 | 🐱‍👤 [The Shadow Cat](https://flowlab.io/games/play/937230) | Flowlab | 2018 |
 <!-- | ❓ Ultimate Number Guesser | Python | 2020 | -->
