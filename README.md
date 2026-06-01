@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Mateusz
 
+
 <!-- Badges -->
 
 #### _`Computer Science Graduate` `Digital Craftsman` `Content Creator`_
@@ -50,15 +51,16 @@ My projects are developed end-to-end — from planning and system design through
 ![JetBrains Suite](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
 <br></br>
 
+
 ## Featured Projects
 
 ### _Graduate Era_
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
-| 🧠 [MindCache](https://github.com/MateuszS6/MindCache) (In Progress) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | 2026-Present |
+| 🧠 [MindCache](https://github.com/MateuszS6/MindCache) (In Progress) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | '26 |
 
-###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories).
+###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories) to see all projects.
 
 ### _University Era_
 
@@ -66,14 +68,14 @@ My projects are developed end-to-end — from planning and system design through
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
-| 🎯 [Focusyn](https://github.com/MateuszS6/Focusyn-App) | Flutter, Firebase, OpenAI | Productivity app for overthinkers and ADHD. | 2025 |
-| 🧊 [Minecraft Calculator](https://github.com/MateuszS6/Minecraft-Calculator) | HTML/CSS, JavaScript | Web app for essential Minecraft calculations. | 2024-25 |
-| 🌐 [2D#4](https://github.com/MateuszS6/2DH4) | Java, Wireshark | Dynamic peer-to-peer network hash table. | 2024 |
-| 🚀 [Asteroids](https://github.com/MateuszS6/Asteroids-Game) | C++ | Enhanced, strategic asteroid shooting game. | 2024 |
-| 🛃 [Restaurant Management](https://github.com/MateuszS6/Restaurant-Management-System) | Java, SQL | System for comprehensive restaurant management. | 2024 |
-| ⭕ [Naughts And Crosses](https://github.com/MateuszS6/Naughts-Crosses-Game) | Java, Swing | Personal version of tic tac toe GUI game. | 2023 |
-| ⚔️ [HeroVersus: Battle Arena](https://github.com/MateuszS6/HeroVersus-Game) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | 2023 |
-| 🎬 [Marvel Analytics](https://github.com/MateuszS6/Marvel-Analytics-Database) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | 2022-23 |
+| 🎯 [Focusyn](https://github.com/MateuszS6/Focusyn-App) | Flutter, Firebase, OpenAI | Productivity app for overthinkers and ADHD. | '25 |
+| 🧊 [Minecraft Calculator](https://github.com/MateuszS6/Minecraft-Calculator) | HTML/CSS, JavaScript | Web app for essential Minecraft calculations. | '24-25 |
+| 🌐 [2D#4](https://github.com/MateuszS6/2DH4) | Java, Wireshark | Dynamic peer-to-peer network hash table. | '24 |
+| 🚀 [Asteroids](https://github.com/MateuszS6/Asteroids-Game) | C++ | Enhanced, strategic asteroid shooting game. | '24 |
+| 🛃 [Restaurant Management](https://github.com/MateuszS6/Restaurant-Management-System) | Java, SQL | System for comprehensive restaurant management. | '24 |
+| ⭕ [Naughts And Crosses](https://github.com/MateuszS6/Naughts-Crosses-Game) | Java, Swing | Personal version of tic tac toe GUI game. | '23 |
+| ⚔️ [HeroVersus: Battle Arena](https://github.com/MateuszS6/HeroVersus-Game) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | '23 |
+| 🎬 [Marvel Analytics](https://github.com/MateuszS6/Marvel-Analytics-Database) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | '22-23 |
 <!-- | 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller) | Kotlin, Jetpack Compose | Simple, minimalistic dice rolling app. | 2023-24 | -->
 <!-- | 📜 [Recipe Database Simulation](https://github.com/MateuszS6/Recipe-Database-Simulation) | C++ | Simulation of simple databse operations. | 2023 | -->
 <!-- | 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/Fortnite-Win-Tracker-2) | Java, Java Swing | Upgraded version of Fortnite Win Tracker using GUI. | 2023 | -->
@@ -82,10 +84,10 @@ My projects are developed end-to-end — from planning and system design through
 
 | Project | Stack | Year |
 | - | - | - |
-| 👹 [Orc Encounter](https://github.com/MateuszS6/Orc-Encounter) | Python, Flask | 2021->26 |
-| 🪖 [The Traveller's Mission](https://github.com/MateuszS6/Travellers-Mission-Game) | Python, PyGame | 2021-22 |
-| 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/Fortnite-Win-Tracker) | Python | 2020-21 |
-| 👤 [The Shadow Cat](https://flowlab.io/games/play/937230) | Flowlab | 2018 |
+| 👹 [Orc Encounter](https://github.com/MateuszS6/Orc-Encounter) | Python, Flask | '21&rarr;26 |
+| 🪖 [The Traveller's Mission](https://github.com/MateuszS6/Travellers-Mission-Game) | Python, PyGame | '21-22 |
+| 🥇 [Fortnite Win Tracker](https://github.com/MateuszS6/Fortnite-Win-Tracker) | Python | '20-21 |
+| 👤 [The Shadow Cat](https://flowlab.io/games/play/937230) | Flowlab | '18 |
 <!-- | ❓ Ultimate Number Guesser | Python | 2020 | -->
 <!-- | 🧮 N-Calculator | Python | 2020 | -->
 <!-- | 🟩 Minecraft Block Area Calculator | Python | 2020 | -->
@@ -97,7 +99,9 @@ My projects are developed end-to-end — from planning and system design through
 [![langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MateuszS6&theme=prussian&hide_border=true&layout=compact&hide=c,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
 > [!NOTE]
-> Most Used Languages is only a metric of the top languages my public code consists of, and does not reflect my experience or skill level.
+> Most Used Languages is a metric of the top languages found in my public code, and does not accurately reflect my experience or skill level.
+
+
 
 <!--
 
