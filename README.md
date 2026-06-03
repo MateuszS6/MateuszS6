@@ -98,7 +98,6 @@ My projects are developed end-to-end — from planning and system design through
 <!-- [![stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=MateuszS6&theme=prussian&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 [![langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MateuszS6&theme=prussian&hide_border=true&layout=compact&hide=c,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
-> [!NOTE]
 > Most Used Languages is a metric of the top languages found in my public code, and does not accurately reflect my experience or skill level.
 
 
