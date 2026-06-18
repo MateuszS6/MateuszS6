@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mateusz
 
-#### _`Computer Science Graduate` `Digital Craftsman` `Content Creator`_
+#### _`Computer Science Graduate` `Digital Craftsman` `Content Creator` `Looking For Work`_
 
 Computer Science graduate from City St George's, University of London actively seeking graduate and junior software engineering roles.
 I build projects across software engineering, game development, data science, and cyber security, with an emphasis on clean design, problem-solving, and continuous learning.
