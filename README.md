@@ -1,28 +1,5 @@
 # 👋 Hello, I'm Mateusz
 
-
-<!-- Badges -->
-
-<!-- FORMAT: [https://custom-icon-badges.demolab.com/badge/[TEXT]-[COLOUR]?style=for-the-badge&logoColor=[BG_COLOUR]&logo=[LOGO_NAME]] -->
-
-<!-- Make these dynamic. -->
-
-<p align="left">
-    <a href="https://github.com/MateuszS6?tab=followers">
-        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/Follow-9-640464?logo=github"/></a>
-    <a href="https://www.linkedin.com/in/matz-stepien">
-        <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/Connect-369-darkslateblue?logo=linkedi&logoColor=white"/></a>
-    <a href="https://g.dev/mateusz-stepien">
-        <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/Google_Dev-9-228B22?logo=code"/></a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/097ea9ea-9a0a-4a62-a530-bb0156aefb42">
-        <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/Cloud_Skills-7735-red?logo=cloud"/></a>
-    <a href="https://github.com/MateuszS6?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-1-gold?logo=star"/></a>
-</p>
-
-
-## About Me
-
 #### _`Computer Science Graduate` `Digital Craftsman` `Content Creator`_
 
 Computer Science graduate from City St George's, University of London actively seeking graduate and junior software engineering roles.
@@ -100,6 +77,29 @@ My projects are developed end-to-end — from planning and system design through
 [![langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MateuszS6&theme=prussian&hide_border=true&layout=compact&hide=c,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
 > Most Used Languages is a metric of the top languages found in my public code, and does not accurately reflect my experience or skill level.
+
+---
+
+#### More From Me
+
+<!-- Badges -->
+
+<!-- FORMAT: [https://custom-icon-badges.demolab.com/badge/[TEXT]-[COLOUR]?style=for-the-badge&logoColor=[BG_COLOUR]&logo=[LOGO_NAME]] -->
+
+<!-- Make these dynamic. -->
+
+<p align="left">
+    <a href="https://github.com/MateuszS6?tab=followers">
+        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/Follow-9-640464?logo=github"/></a>
+    <a href="https://www.linkedin.com/in/matz-stepien">
+        <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/Connect-369-darkslateblue?logo=linkedi&logoColor=white"/></a>
+    <a href="https://g.dev/mateusz-stepien">
+        <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/Google_Dev-9-228B22?logo=code"/></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/097ea9ea-9a0a-4a62-a530-bb0156aefb42">
+        <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/Cloud_Skills-7735-red?logo=cloud"/></a>
+    <a href="https://github.com/MateuszS6?tab=repositories&q=&type=&language=&sort=stargazers">
+        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-1-gold?logo=star"/></a>
+</p>
 
 
 
