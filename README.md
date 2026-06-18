@@ -3,8 +3,6 @@
 
 <!-- Badges -->
 
-#### _`Computer Science Graduate` `Digital Craftsman` `Content Creator`_
-
 <!-- FORMAT: [https://custom-icon-badges.demolab.com/badge/[TEXT]-[COLOUR]?style=for-the-badge&logoColor=[BG_COLOUR]&logo=[LOGO_NAME]] -->
 
 <!-- Make these dynamic. -->
@@ -25,12 +23,13 @@
 
 ## About Me
 
+#### _`Computer Science Graduate` `Digital Craftsman` `Content Creator`_
+
 Computer Science graduate from City St George's, University of London actively seeking graduate and junior software engineering roles.
-
 I build projects across software engineering, game development, data science, and cyber security, with an emphasis on clean design, problem-solving, and continuous learning.
-
 My projects are developed end-to-end — from planning and system design through to implementation — and I’m always looking to expand my technical skills by building practical, challenging, and user-centred applications.
 
+---
 
 ## Lanuages & Tools
 
@@ -51,20 +50,21 @@ My projects are developed end-to-end — from planning and system design through
 ![JetBrains Suite](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
 <br></br>
 
+---
 
 ## Featured Projects
 
-### _Graduate Era_
+###### A mixture of my best academic and personal projects.
+
+### _Graduate_
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
 | 🧠 [MindCache](https://github.com/MateuszS6/MindCache) (In Progress) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | '26 |
 
-###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories) to see all projects.
+<!-- ###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories) to see all projects. -->
 
-### _University Era_
-
-###### This includes personal projects.
+### _University_
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
@@ -80,7 +80,7 @@ My projects are developed end-to-end — from planning and system design through
 <!-- | 📜 [Recipe Database Simulation](https://github.com/MateuszS6/Recipe-Database-Simulation) | C++ | Simulation of simple databse operations. | 2023 | -->
 <!-- | 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/Fortnite-Win-Tracker-2) | Java, Java Swing | Upgraded version of Fortnite Win Tracker using GUI. | 2023 | -->
 
-### _School Era_
+### _School_
 
 | Project | Stack | Year |
 | - | - | - |
@@ -92,6 +92,7 @@ My projects are developed end-to-end — from planning and system design through
 <!-- | 🧮 N-Calculator | Python | 2020 | -->
 <!-- | 🟩 Minecraft Block Area Calculator | Python | 2020 | -->
 
+---
 
 ## My Stats
 
