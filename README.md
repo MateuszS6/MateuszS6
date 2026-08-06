@@ -52,7 +52,7 @@ My projects are developed end-to-end — from planning and system design through
 | 🛃 [Restaurant Management](https://github.com/MateuszS6/Restaurant-Management-System) | Java, SQL | System for comprehensive restaurant management. | '24 |
 | ⭕ [Naughts And Crosses](https://github.com/MateuszS6/Naughts-Crosses-Game) | Java, Swing | Personal version of tic tac toe GUI game. | '23 |
 | ⚔️ [HeroVersus: Battle Arena](https://github.com/MateuszS6/HeroVersus-Game) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | '23 |
-| 🎬 [Marvel Analytics](https://github.com/MateuszS6/Marvel-Analytics-Database) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | '22-23 |
+| 🎬 [Marvel Analytics](https://github.com/MateuszS6/Marvel-Analytics) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | '22-23&rarr;26 |
 <!-- | 🎲 [Dice Roller](https://github.com/MateuszS6/DiceRoller) | Kotlin, Jetpack Compose | Simple, minimalistic dice rolling app. | 2023-24 | -->
 <!-- | 📜 [Recipe Database Simulation](https://github.com/MateuszS6/Recipe-Database-Simulation) | C++ | Simulation of simple databse operations. | 2023 | -->
 <!-- | 🥈 [Fortnite Win Tracker 2](https://github.com/MateuszS6/Fortnite-Win-Tracker-2) | Java, Java Swing | Upgraded version of Fortnite Win Tracker using GUI. | 2023 | -->
