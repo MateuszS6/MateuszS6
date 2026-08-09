@@ -13,14 +13,14 @@ My projects are developed end-to-end — from planning and system design through
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openaigym&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-dodgerblue?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -37,7 +37,7 @@ My projects are developed end-to-end — from planning and system design through
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
-| 🧠 [MindCache](https://github.com/MateuszS6/MindCache) (In Progress) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | '26 |
+| 🧠 [MindCache](https://github.com/MateuszS6/MindCache) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | '26 |
 
 <!-- ###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories) to see all projects. -->
 
@@ -49,7 +49,7 @@ My projects are developed end-to-end — from planning and system design through
 | 🧊 [Minecraft Calculator](https://github.com/MateuszS6/Minecraft-Calculator) | HTML/CSS, JavaScript | Web app for essential Minecraft calculations. | '24-25 |
 | 🌐 [2D#4](https://github.com/MateuszS6/2DH4) | Java, Wireshark | Dynamic peer-to-peer network hash table. | '24 |
 | 🚀 [Asteroids](https://github.com/MateuszS6/Asteroids-Game) | C++ | Enhanced, strategic asteroid shooting game. | '24 |
-| 🛃 [Restaurant Management](https://github.com/MateuszS6/Restaurant-Management-System) | Java, SQL | System for comprehensive restaurant management. | '24 |
+| 🍴 [Restaurant Management](https://github.com/MateuszS6/Restaurant-Management-System) | Java, SQL | System for comprehensive restaurant management. | '24 |
 | ⭕ [Naughts And Crosses](https://github.com/MateuszS6/Naughts-Crosses-Game) | Java, Swing | Personal version of tic tac toe GUI game. | '23 |
 | ⚔️ [HeroVersus: Battle Arena](https://github.com/MateuszS6/HeroVersus-Game) | Java, JBox2D | Two-player hero fighting platformer with physics and GUI. | '23 |
 | 🎬 [Marvel Analytics](https://github.com/MateuszS6/Marvel-Analytics) | MySQL, PHP, UML | Comprehensive SQL database of projects and characters. | '22-23&rarr;26 |
