@@ -38,7 +38,7 @@ My projects are developed end-to-end — from planning and system design through
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
-| 🎬 [_Timeline Studio_](https://github.com/MateuszS6/MindCache) | _React, Supabase_ | _In development..._ | _'26_ |
+| 🎬 _Timeline Studio_ | _React, Supabase_ | _In development..._ | _'26_ |
 | 🧠 [MindCache](https://github.com/MateuszS6/MindCache) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | '26 |
 
 <!-- ###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories) to see all projects. -->
