@@ -38,7 +38,7 @@ My projects are developed end-to-end — from planning and system design through
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
-| 🎬 _Timeline Studio_ | _React, Supabase_ | _In development..._ | _'26_ |
+| 🎬 _Movie Timeline Studio_ | _React, Supabase_ | _In development..._ | _'26_ |
 | 🧠 [MindCache](https://github.com/MateuszS6/MindCache) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | '26 |
 
 <!-- ###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories) to see all projects. -->
@@ -88,19 +88,17 @@ My projects are developed end-to-end — from planning and system design through
 
 <!-- FORMAT: [https://custom-icon-badges.demolab.com/badge/[TEXT]-[COLOUR]?style=for-the-badge&logoColor=[BG_COLOUR]&logo=[LOGO_NAME]] -->
 
-<!-- Make these dynamic. -->
-
 <p align="left">
     <a href="https://github.com/MateuszS6?tab=followers">
-        <img alt="follow" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/badge/Follow-9-640464?logo=github"/></a>
+        <img alt="follow" title="Follow me on GitHub!" src="https://custom-icon-badges.demolab.com/badge/Follow-9-640464?logo=github&logoColor=181717&style=social"/></a>
     <a href="https://www.linkedin.com/in/matz-stepien">
-        <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/Connect-369-darkslateblue?logo=linkedi&logoColor=white"/></a>
+        <img alt="connect" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/Connect-369-darkslateblue?logo=linkedi&logoColor=1a75bb&style=social"/></a>
     <a href="https://g.dev/mateusz-stepien">
-        <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/Google_Dev-9-228B22?logo=code"/></a>
+        <img alt="dev" title="Visit my Google Developers profile!" src="https://custom-icon-badges.demolab.com/badge/Google_Dev-9-228B22?logo=code&logoColor=228B22&style=social"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/097ea9ea-9a0a-4a62-a530-bb0156aefb42">
-        <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/Cloud_Skills-7735-red?logo=cloud"/></a>
+        <img alt="cloud" title="Visit my Google Cloud Skills Boost profile!" src="https://custom-icon-badges.demolab.com/badge/Cloud_Skills-7735-red?logo=cloud&logoColor=red&style=social"/></a>
     <a href="https://github.com/MateuszS6?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-1-gold?logo=star"/></a>
+        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Stars-1-gold?logo=star&logoColor=gold&style=social"/></a>
 </p>
 
 
