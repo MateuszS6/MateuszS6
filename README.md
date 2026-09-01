@@ -8,27 +8,29 @@ My projects are developed end-to-end — from planning and system design through
 
 ---
 
-## Lanuages & Tools
+## Languages & Tools
 
-![Java](https://img.shields.io/badge/Java-e76f00?style=for-the-badge&logo=coffeescript&logoColor=5382a0)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00678C?style=for-the-badge&logo=mysql&logoColor=cd8b2b)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-fec400?style=for-the-badge&logo=firebase&logoColor=DD2C00)
-![Supabase](https://img.shields.io/badge/Supabase-1d232a?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=4285f4)
-![JetBrains Suite](https://img.shields.io/badge/JetBrains-19191b?style=for-the-badge&logo=jetbrains)
-![OpenAI](https://img.shields.io/badge/OpenAI-white?style=for-the-badge&logo=openaigym&logoColor=black)
+<!-- BADGE STYLE: plastic -->
+
+![Java](https://img.shields.io/badge/Java-e76f00?style=flat-square&logo=coffeescript&logoColor=5382a0)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00678C?style=flat-square&logo=mysql&logoColor=cd8b2b)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-fec400?style=flat-square&logo=firebase&logoColor=DD2C00)
+![Supabase](https://img.shields.io/badge/Supabase-1d232a?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=4285f4)
+![JetBrains Suite](https://img.shields.io/badge/JetBrains-19191b?style=flat-square&logo=jetbrains)
+![OpenAI](https://img.shields.io/badge/OpenAI-white?style=flat-square&logo=openaigym&logoColor=black)
 
 ---
 
