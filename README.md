@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mateusz
 
-#### _`Computer Science Graduate` `Digital Craftsman` `Content Creator` `Looking For Work`_
+#### Computer Science Graduate — Looking For Work — Digital Craftsman — Content Creator
 
 Computer Science graduate from City St George's, University of London actively seeking graduate and junior software engineering roles.
 I build projects across software engineering, game development, data science, and cyber security, with an emphasis on clean design, problem-solving, and continuous learning.
@@ -40,7 +40,7 @@ My projects are developed end-to-end — from planning and system design through
 
 | Project | Stack | Description | Year |
 | - | - | - | - |
-| 🎬 _Movie Timeline Studio_ | _React, Supabase_ | _In development..._ | _'26_ |
+| 🎬 [___Timeline Studio___](https://github.com/MateuszS6/Timeline-Studio) | _React/TS, Supabase_ | ___W.I.P:___ _Personal viewer/editor for movie timelines and character appearances_ | _'26_ |
 | 🧠 [MindCache](https://github.com/MateuszS6/MindCache) | FastAPI, OpenAI, Docker | AI-powered personal knowledge system using LLM summarisation. | '26 |
 
 <!-- ###### 👉 Visit [repos](https://github.com/mateuszs6?tab=repositories) to see all projects. -->
